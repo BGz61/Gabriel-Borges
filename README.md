@@ -1,13 +1,38 @@
-# Gabriel-Borges
+# 👋 Olá, eu sou Gabriel Borges
 
-Olá meu nome é Gabriel Borges, sou estudante de ciências da computaçâo no UniCEUB, e tenho interesse em ter um estágio para minha evolução pessoal e profissonal.
-Meu contatos:
+🎓 Estudante de Ciência da Computação no UniCEUB
 
+💻 Tenho interesse em diversas áreas da tecnologia, buscando constantemente aprender novas ferramentas, linguagens e desenvolver projetos práticos.
 
-Número: 61 99219-2765
+## 🚀 Atualmente estudando
 
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Git e GitHub
+- Lógica de Programação
 
-e-mail: gabrielllborgess146@gmail.com
+## 🎯 Objetivos
 
+- Conseguir uma oportunidade de estágio na área de tecnologia
+- Ganhar experiência prática em desenvolvimento de software
+- Construir projetos cada vez mais completos
+- Explorar diferentes áreas da computação
 
-linkedin : https://www.linkedin.com/in/gabriel-santiago-8443a640b/
+## 📂 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios de bootcamp e experimentos para aprimorar minhas habilidades.
+
+## 📫 Contato
+
+📧 E-mail: gabriel11borgess146@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/gabriel-santiago-8443a640b/
+
+📍 Brasília - DF
+
+---
+
+⭐ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
