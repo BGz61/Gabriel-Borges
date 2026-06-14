@@ -29,7 +29,7 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios de 
 📧 E-mail: gabriel11borgess146@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/gabriel-santiago-8443a640b/
+https://www.linkedin.com/in/gabriel-borges-df/?isSelfProfile=true
 
 📍 Brasília - DF
 
