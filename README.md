@@ -26,7 +26,7 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios de 
 
 ## 📫 Contato
 
-📧 E-mail: gabriel11borgess146@gmail.com
+📧 E-mail: gabrielllborgesss146@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/gabriel-borges-df/?isSelfProfile=true
